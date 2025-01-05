@@ -1,0 +1,23 @@
+The following list is the list of inputs for the game "Entrepreneur to Industrialist"
+
+1. Left mouse click / Screen finger tap / Controller bottom button ( A / X)
+
+     These controls will be used as the primary source of interaction for the game, used for interacting with the world, UI, and overall interface.
+
+2. Right mouse click drag / Screen finger drag / Controller right thumb stick
+
+     This set of controls will be used for maneuvering the camera in game, allowing the player to pan the screen to look at different parts of the world.
+For the mouse and touch screen controls, the screen will pan in the direction the player's mouse / finger moves towards. Where the controller thumb stick will
+be used to pan the screen in the direction the thumbstick is facing on the controller.
+
+3. Mouse wheel / Screen finger pinch and zoom / Controller D-Pad 
+
+     These actions will be used for zooming in and out the camera. Moving the mouse wheel up will zoom in the camera, and mouse wheel down will zoom out. 
+Pushing up on the D-pad for a controller will zoom the camera in, and pushing down will zoom in out. Using two fingers on a touch screen making the zoom gesture 
+will cause the camera to zoom in, while doing a pinch gesture will make the camera zoom out.
+
+4. Left controller thumbstick
+
+     Since on other platforms like a computer or mobile, you can use your mouse position or the location of your finger to indicate where you want to make your
+input, if the player is on controller they won't be able to do this. Which is why on controller the player can use their left thumb stick to manipulate a cursor 
+on their screen.
