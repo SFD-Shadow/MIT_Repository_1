@@ -1,0 +1,10 @@
+In my submission for this assignment, I have created all the necessary basic GUI that would be used in the game Entrepreneur to Industrialist.
+
+     Starting in the top left of the screen, going down we have the day counter, which will change depending on how many days have passed in game.
+Next there is the messages button which brings up the messages menu, this is where you will get alerts or messages about events happening in game.
+After that we have the company info button which will summon its corresponding menu, this menu will show all of the stats about your company, from
+order count, stocks, worker and customer hippieness, etc. Finally is the settings button that'll bring up the settings menu for tweaking the game's
+properties.
+
+     In the top right of the screen there is the company name that will be chosen by the player. The company's logo which will also be chosen by the player
+from a list of premade logo's. And the current money count of the player's company.
